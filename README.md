@@ -13,8 +13,8 @@ Install my-project
 ```bash
     git clone "https://github.com/LUISEDOCCOR/api-to-do-app"
     cd api-to-do-app
-    pip install -r requirements.txt
-    pyhton index.html
+    pip install ---
+    pyhton index.py
 ```
     
 ## API Reference
